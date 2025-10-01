@@ -1,1 +1,1 @@
-package structural.decorator;
+package behavioral.strategy;
